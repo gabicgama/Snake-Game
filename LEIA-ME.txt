@@ -1,0 +1,15 @@
+============= ATENÇÃO ==============
+
+Para funcionamento do jogo é importante que
+NENHUM arquivo seja alterado ou excluído!
+
+============ PARA JOGAR ============
+
+Basta executar o arquivo "Snake.exe"
+
+============= OPCIONAL =============
+
+Se preferir copie a pasta Snake Game para C:\Arquivos de Programas(x86) e cole.
+Após feito isto, crie um atalho para a área de trabalho.
+
+Bom jogo!
